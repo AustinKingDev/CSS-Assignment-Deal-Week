@@ -1,0 +1,13 @@
+.deal {
+margin: auto;
+position:relative;
+z-index: 1;
+}
+
+.item {
+margin: auto;
+position: relative;
+bottom: 645px;
+
+}
+
